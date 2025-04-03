@@ -1,4 +1,4 @@
-# Fundamentals of Web Development
+# Illinois Tech's Fundamentals of Web Development
 The Fundamentals of Web Development is a 9 week course developed by Illinois Institute of Technology. Course instructor Professor Krieglstein.
 
 ## Learning Objectives
